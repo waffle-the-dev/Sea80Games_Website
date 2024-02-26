@@ -1,4 +1,4 @@
 baseURL = 'https://waffle-the-dev.github.io/'
 languageCode = 'en-us'
 title = 'Sea80 Games Studio'
-theme = 'ananke'
+theme = 'hugo-papermod'
