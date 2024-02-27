@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Sea80 Games Studio</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Sea80 Games Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeepney Game</title>
+      <link>http://localhost:1313/posts/jeepney-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jeepney-game/</guid>
+      <description>Jeepney Game Jeepney is a mobile game available in Android. Experience being a jeepney driver in the unforgiving streets of Manila. Pick up passengers, calculate fare changes, and navigate the twists and turns of the roads as the &amp;ldquo;King of the Road&amp;rdquo;.
+Mama mo nagdridrive ng jeepney wooooh.</description>
+    </item>
   </channel>
 </rss>

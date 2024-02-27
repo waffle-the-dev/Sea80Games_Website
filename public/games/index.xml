@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Sea80 Games Studio</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Sea80 Games Studio</description>
+    <title>Games on Sea80 Games Studio</title>
+    <link>http://localhost:1313/games/</link>
+    <description>Recent content in Games on Sea80 Games Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>About Us Prince writes code.
-Dardsie makes art.
-Erica supplies food.</description>
-    </item>
+    <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://localhost:1313/games/jeepney-game/</link>
@@ -23,13 +14,6 @@ Erica supplies food.</description>
       <guid>http://localhost:1313/games/jeepney-game/</guid>
       <description>Jeepney Game Jeepney is a mobile game available in Android. Experience being a jeepney driver in the unforgiving streets of Manila. Pick up passengers, calculate fare changes, and navigate the twists and turns of the roads as the &amp;ldquo;King of the Road&amp;rdquo;.
 Mama mo nagdridrive ng jeepney wooooh.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/our_games/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/our_games/</guid>
-      <description>Our Games Jeepney </description>
     </item>
   </channel>
 </rss>
